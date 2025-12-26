@@ -1,0 +1,7 @@
+!*/
+!*.py
+!*.sh
+!.gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
